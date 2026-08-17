@@ -1,0 +1,501 @@
+Employee_ID,Department,Job_Title,Job_Level,Location,Years_Service,Current_Salary,Performance_Rating
+E0001,Information Technology,IT Support Analyst,L1,Halifax,14,48700.0,4
+E0002,Human Resources,HR Advisor,L3,Halifax,10,80500.0,3
+E0003,Policy & Research,Senior Policy Analyst,L3,Halifax,20,81300.0,5
+E0004,Information Technology,IT Support Analyst,L1,Halifax,0,58200.0,3
+E0005,Operations,Operations Assistant,L1,Halifax,11,35300.0,1
+E0006,Information Technology,Senior Systems Analyst,L3,Halifax,14,99000.0,3
+E0007,Information Technology,Senior Systems Analyst,L3,Halifax,19,94300.0,3
+E0008,Policy & Research,Research Assistant,L1,Halifax,6,46700.0,1
+E0009,Administration,Administrative Coordinator,L2,Halifax,17,59600.0,3
+E0010,Information Technology,IT Support Analyst,L1,Halifax,7,48700.0,1
+E0011,Operations,Operations Assistant,L1,Halifax,3,45300.0,3
+E0012,Operations,Operations Analyst,L2,Halifax,3,75000.0,3
+E0013,Finance,Financial Analyst,L2,Halifax,11,68000.0,5
+E0014,Operations,Operations Manager,L3,Halifax,7,88200.0,4
+E0015,Policy & Research,Policy Analyst,L2,Halifax,14,58700.0,4
+E0016,Information Technology,IT Support Analyst,L1,Halifax,8,50000.0,3
+E0017,Policy & Research,Research Assistant,L1,Halifax,6,41300.0,3
+E0018,Human Resources,HR Advisor,L3,Halifax,16,71400.0,4
+E0019,Human Resources,HR Assistant,L1,Halifax,4,50800.0,5
+E0020,Administration,Administrative Coordinator,L2,Halifax,0,56500.0,2
+E0021,Operations,Operations Assistant,L1,Halifax,2,49800.0,3
+E0022,Human Resources,HR Assistant,L1,Halifax,14,39100.0,4
+E0023,Administration,Administrative Assistant,L1,Halifax,13,33000.0,3
+E0024,Finance,Finance Assistant,L1,Halifax,18,53700.0,1
+E0025,Administration,Administrative Assistant,L1,Halifax,3,43000.0,5
+E0026,Human Resources,HR Assistant,L1,Halifax,3,40000.0,5
+E0027,Human Resources,HR Advisor,L3,Halifax,1,72900.0,3
+E0028,Information Technology,Systems Analyst,L2,Halifax,10,71600.0,3
+E0029,Information Technology,IT Support Analyst,L1,Halifax,6,60000.0,5
+E0030,Administration,Administrative Assistant,L1,Halifax,8,39300.0,3
+E0031,Operations,Operations Manager,L3,Halifax,8,71400.0,3
+E0032,Human Resources,HR Analyst,L2,Halifax,8,70800.0,3
+E0033,Operations,Operations Assistant,L1,Halifax,19,52900.0,3
+E0034,Policy & Research,Research Assistant,L1,Halifax,16,54600.0,3
+E0035,Finance,Financial Analyst,L2,Halifax,4,76500.0,3
+E0036,Policy & Research,Policy Analyst,L2,Halifax,5,76100.0,3
+E0037,Information Technology,Senior Systems Analyst,L3,Halifax,10,100200.0,3
+E0038,Policy & Research,Policy Analyst,L2,Halifax,5,63900.0,3
+E0039,Administration,Administrative Assistant,L1,Halifax,5,43600.0,4
+E0040,Information Technology,Senior Systems Analyst,L3,Halifax,2,101500.0,4
+E0041,Information Technology,Senior Systems Analyst,L3,Halifax,19,97300.0,5
+E0042,Administration,Office Manager,L3,Halifax,17,50600.0,5
+E0043,Operations,Operations Analyst,L2,Halifax,2,53000.0,3
+E0044,Administration,Administrative Coordinator,L2,Halifax,11,55800.0,3
+E0045,Human Resources,HR Advisor,L3,Halifax,8,84600.0,3
+E0046,Information Technology,Systems Analyst,L2,Halifax,0,77800.0,3
+E0047,Human Resources,HR Assistant,L1,Halifax,7,51800.0,4
+E0048,Operations,Operations Assistant,L1,Halifax,2,56400.0,5
+E0049,Finance,Financial Analyst,L2,Halifax,17,67600.0,3
+E0050,Information Technology,IT Support Analyst,L1,Halifax,3,55000.0,3
+E0051,Policy & Research,Senior Policy Analyst,L3,Halifax,2,77700.0,4
+E0052,Human Resources,HR Analyst,L2,Halifax,13,65600.0,3
+E0053,Operations,Operations Assistant,L1,Halifax,18,53500.0,4
+E0054,Operations,Operations Assistant,L1,Halifax,14,50200.0,3
+E0055,Policy & Research,Research Assistant,L1,Halifax,15,49600.0,3
+E0056,Administration,Administrative Coordinator,L2,Halifax,13,54300.0,5
+E0057,Human Resources,HR Assistant,L1,Halifax,4,49900.0,5
+E0058,Human Resources,HR Assistant,L1,Halifax,19,47100.0,3
+E0059,Policy & Research,Senior Policy Analyst,L3,Halifax,0,87400.0,3
+E0060,Operations,Operations Analyst,L2,Halifax,2,56100.0,3
+E0061,Finance,Senior Financial Analyst,L3,Halifax,1,74600.0,3
+E0062,Administration,Administrative Assistant,L1,Halifax,10,39900.0,4
+E0063,Policy & Research,Policy Analyst,L2,Halifax,2,63100.0,3
+E0064,Administration,Administrative Assistant,L1,Halifax,19,46500.0,3
+E0065,Operations,Operations Analyst,L2,Halifax,11,65100.0,4
+E0066,Operations,Operations Manager,L3,Halifax,16,77300.0,1
+E0067,Operations,Operations Manager,L3,Halifax,10,94000.0,2
+E0068,Information Technology,IT Support Analyst,L1,Halifax,6,55800.0,2
+E0069,Policy & Research,Policy Analyst,L2,Halifax,14,67600.0,4
+E0070,Human Resources,HR Analyst,L2,Halifax,4,61300.0,3
+E0071,Operations,Operations Manager,L3,Halifax,8,67600.0,4
+E0072,Operations,Operations Assistant,L1,Halifax,7,45800.0,5
+E0073,Administration,Administrative Assistant,L1,Halifax,6,53500.0,4
+E0074,Human Resources,HR Analyst,L2,Halifax,15,61500.0,3
+E0075,Operations,Operations Assistant,L1,Halifax,13,46100.0,2
+E0076,Operations,Operations Assistant,L1,Halifax,11,44500.0,1
+E0077,Finance,Finance Assistant,L1,Halifax,6,60400.0,3
+E0078,Finance,Financial Analyst,L2,Halifax,4,63000.0,4
+E0079,Information Technology,Senior Systems Analyst,L3,Halifax,9,104500.0,3
+E0080,Policy & Research,Research Assistant,L1,Halifax,3,49500.0,3
+E0081,Finance,Finance Assistant,L1,Halifax,19,57600.0,3
+E0082,Administration,Administrative Assistant,L1,Halifax,18,39700.0,4
+E0083,Information Technology,Senior Systems Analyst,L3,Halifax,0,88300.0,5
+E0084,Policy & Research,Policy Analyst,L2,Halifax,9,69900.0,1
+E0085,Finance,Senior Financial Analyst,L3,Halifax,8,74400.0,3
+E0086,Human Resources,HR Assistant,L1,Halifax,3,54100.0,3
+E0087,Policy & Research,Research Assistant,L1,Halifax,3,53300.0,3
+E0088,Administration,Office Manager,L3,Halifax,15,72800.0,2
+E0089,Administration,Office Manager,L3,Halifax,4,76600.0,3
+E0090,Human Resources,HR Assistant,L1,Halifax,16,51800.0,3
+E0091,Information Technology,IT Support Analyst,L1,Halifax,12,57000.0,4
+E0092,Information Technology,Senior Systems Analyst,L3,Halifax,14,91800.0,2
+E0093,Policy & Research,Senior Policy Analyst,L3,Halifax,11,95900.0,3
+E0094,Administration,Office Manager,L3,Halifax,12,74100.0,5
+E0095,Finance,Senior Financial Analyst,L3,Halifax,13,92200.0,3
+E0096,Human Resources,HR Advisor,L3,Halifax,17,76700.0,5
+E0097,Administration,Administrative Coordinator,L2,Halifax,11,53600.0,4
+E0098,Finance,Finance Assistant,L1,Halifax,17,55600.0,4
+E0099,Finance,Finance Assistant,L1,Halifax,4,54900.0,3
+E0100,Operations,Operations Assistant,L1,Halifax,6,48700.0,5
+E0101,Information Technology,Systems Analyst,L2,Halifax,18,58200.0,4
+E0102,Finance,Senior Financial Analyst,L3,Halifax,6,97400.0,3
+E0103,Policy & Research,Research Assistant,L1,Halifax,17,51100.0,3
+E0104,Administration,Office Manager,L3,Halifax,12,62400.0,3
+E0105,Administration,Office Manager,L3,Halifax,16,49900.0,2
+E0106,Finance,Finance Assistant,L1,Halifax,12,55300.0,1
+E0107,Policy & Research,Policy Analyst,L2,Halifax,20,69100.0,5
+E0108,Information Technology,IT Support Analyst,L1,Halifax,17,50600.0,3
+E0109,Administration,Administrative Coordinator,L2,Halifax,14,62100.0,3
+E0110,Administration,Office Manager,L3,Halifax,11,81500.0,5
+E0111,Operations,Operations Assistant,L1,Halifax,7,41500.0,3
+E0112,Information Technology,Systems Analyst,L2,Halifax,4,86500.0,5
+E0113,Human Resources,HR Analyst,L2,Halifax,16,76300.0,3
+E0114,Policy & Research,Research Assistant,L1,Halifax,13,41600.0,2
+E0115,Operations,Operations Analyst,L2,Halifax,18,55600.0,4
+E0116,Operations,Operations Analyst,L2,Halifax,12,77100.0,3
+E0117,Administration,Administrative Coordinator,L2,Halifax,0,51500.0,3
+E0118,Human Resources,HR Advisor,L3,Halifax,16,89700.0,4
+E0119,Finance,Finance Assistant,L1,Halifax,2,51200.0,2
+E0120,Policy & Research,Policy Analyst,L2,Halifax,2,82200.0,3
+E0121,Policy & Research,Research Assistant,L1,Halifax,4,42400.0,4
+E0122,Administration,Administrative Coordinator,L2,Halifax,0,51400.0,5
+E0123,Policy & Research,Policy Analyst,L2,Halifax,0,57400.0,4
+E0124,Finance,Financial Analyst,L2,Halifax,1,75400.0,3
+E0125,Human Resources,HR Advisor,L3,Halifax,17,94800.0,4
+E0126,Operations,Operations Manager,L3,Halifax,16,95700.0,2
+E0127,Policy & Research,Research Assistant,L1,Halifax,13,47100.0,4
+E0128,Information Technology,Systems Analyst,L2,Halifax,5,71400.0,3
+E0129,Finance,Financial Analyst,L2,Halifax,14,64600.0,3
+E0130,Operations,Operations Assistant,L1,Halifax,14,51100.0,3
+E0131,Finance,Senior Financial Analyst,L3,Halifax,16,68600.0,5
+E0132,Policy & Research,Policy Analyst,L2,Halifax,5,68000.0,3
+E0133,Policy & Research,Policy Analyst,L2,Halifax,10,71900.0,3
+E0134,Human Resources,HR Analyst,L2,Halifax,15,50600.0,3
+E0135,Information Technology,IT Support Analyst,L1,Halifax,2,57800.0,4
+E0136,Policy & Research,Policy Analyst,L2,Halifax,18,68500.0,1
+E0137,Policy & Research,Policy Analyst,L2,Halifax,9,58100.0,3
+E0138,Finance,Finance Assistant,L1,Halifax,13,48400.0,3
+E0139,Human Resources,HR Assistant,L1,Halifax,14,51800.0,3
+E0140,Administration,Office Manager,L3,Halifax,19,63900.0,3
+E0141,Operations,Operations Analyst,L2,Halifax,13,70400.0,3
+E0142,Operations,Operations Manager,L3,Halifax,14,72400.0,1
+E0143,Finance,Financial Analyst,L2,Halifax,5,60800.0,3
+E0144,Policy & Research,Policy Analyst,L2,Halifax,6,61900.0,3
+E0145,Operations,Operations Analyst,L2,Halifax,11,62200.0,3
+E0146,Finance,Senior Financial Analyst,L3,Halifax,8,65000.0,3
+E0147,Information Technology,Senior Systems Analyst,L3,Halifax,1,107600.0,3
+E0148,Finance,Finance Assistant,L1,Halifax,4,59700.0,3
+E0149,Finance,Financial Analyst,L2,Halifax,12,62200.0,3
+E0150,Information Technology,Systems Analyst,L2,Halifax,10,64300.0,2
+E0151,Operations,Operations Manager,L3,Halifax,8,59500.0,2
+E0152,Information Technology,Senior Systems Analyst,L3,Halifax,5,99800.0,3
+E0153,Information Technology,Senior Systems Analyst,L3,Halifax,3,93000.0,1
+E0154,Operations,Operations Manager,L3,Halifax,1,84600.0,3
+E0155,Finance,Senior Financial Analyst,L3,Halifax,12,78600.0,4
+E0156,Human Resources,HR Assistant,L1,Halifax,19,42500.0,3
+E0157,Administration,Administrative Coordinator,L2,Halifax,13,48500.0,3
+E0158,Information Technology,IT Support Analyst,L1,Halifax,10,56700.0,3
+E0159,Operations,Operations Analyst,L2,Halifax,9,55100.0,3
+E0160,Finance,Finance Assistant,L1,Halifax,4,50600.0,1
+E0161,Administration,Office Manager,L3,Halifax,14,55700.0,3
+E0162,Administration,Administrative Assistant,L1,Halifax,11,40600.0,3
+E0163,Policy & Research,Senior Policy Analyst,L3,Halifax,8,91500.0,3
+E0164,Operations,Operations Assistant,L1,Halifax,7,46600.0,4
+E0165,Policy & Research,Policy Analyst,L2,Halifax,2,72300.0,3
+E0166,Finance,Financial Analyst,L2,Halifax,3,73700.0,3
+E0167,Finance,Finance Assistant,L1,Halifax,17,38800.0,4
+E0168,Human Resources,HR Assistant,L1,Halifax,5,42500.0,3
+E0169,Administration,Administrative Assistant,L1,Halifax,16,49600.0,4
+E0170,Human Resources,HR Advisor,L3,Halifax,18,59800.0,3
+E0171,Human Resources,HR Advisor,L3,Halifax,18,80700.0,3
+E0172,Policy & Research,Research Assistant,L1,Halifax,19,47200.0,4
+E0173,Human Resources,HR Assistant,L1,Halifax,5,52400.0,4
+E0174,Administration,Administrative Coordinator,L2,Halifax,3,59300.0,3
+E0175,Finance,Finance Assistant,L1,Halifax,9,56100.0,3
+E0176,Policy & Research,Research Assistant,L1,Halifax,14,47100.0,3
+E0177,Policy & Research,Policy Analyst,L2,Halifax,18,56600.0,4
+E0178,Policy & Research,Senior Policy Analyst,L3,Halifax,9,88000.0,3
+E0179,Operations,Operations Manager,L3,Halifax,14,87200.0,3
+E0180,Operations,Operations Analyst,L2,Halifax,0,66000.0,1
+E0181,Information Technology,Senior Systems Analyst,L3,Halifax,11,87200.0,2
+E0182,Administration,Administrative Coordinator,L2,Halifax,18,62700.0,4
+E0183,Administration,Administrative Coordinator,L2,Halifax,10,69800.0,3
+E0184,Policy & Research,Senior Policy Analyst,L3,Halifax,8,90200.0,4
+E0185,Finance,Finance Assistant,L1,Halifax,20,48300.0,3
+E0186,Finance,Senior Financial Analyst,L3,Halifax,5,75300.0,3
+E0187,Finance,Senior Financial Analyst,L3,Halifax,1,79700.0,5
+E0188,Human Resources,HR Advisor,L3,Halifax,6,78600.0,3
+E0189,Policy & Research,Research Assistant,L1,Halifax,16,44700.0,4
+E0190,Finance,Finance Assistant,L1,Halifax,16,45700.0,3
+E0191,Information Technology,IT Support Analyst,L1,Halifax,16,55700.0,3
+E0192,Administration,Office Manager,L3,Halifax,0,76500.0,3
+E0193,Operations,Operations Manager,L3,Halifax,18,79800.0,3
+E0194,Policy & Research,Research Assistant,L1,Halifax,12,50200.0,3
+E0195,Human Resources,HR Analyst,L2,Halifax,0,74000.0,4
+E0196,Information Technology,IT Support Analyst,L1,Halifax,17,39700.0,3
+E0197,Human Resources,HR Advisor,L3,Halifax,3,66400.0,3
+E0198,Operations,Operations Analyst,L2,Halifax,0,59300.0,1
+E0199,Information Technology,Systems Analyst,L2,Halifax,6,79700.0,4
+E0200,Policy & Research,Policy Analyst,L2,Halifax,14,60300.0,3
+E0201,Human Resources,HR Assistant,L1,Halifax,14,53700.0,4
+E0202,Information Technology,IT Support Analyst,L1,Halifax,20,57500.0,3
+E0203,Finance,Senior Financial Analyst,L3,Halifax,9,86500.0,2
+E0204,Information Technology,Systems Analyst,L2,Halifax,1,64300.0,5
+E0205,Policy & Research,Senior Policy Analyst,L3,Halifax,9,82500.0,4
+E0206,Information Technology,IT Support Analyst,L1,Halifax,4,54500.0,3
+E0207,Operations,Operations Assistant,L1,Halifax,1,45700.0,4
+E0208,Operations,Operations Manager,L3,Halifax,13,82900.0,3
+E0209,Administration,Administrative Coordinator,L2,Halifax,18,60100.0,3
+E0210,Administration,Office Manager,L3,Halifax,8,76000.0,2
+E0211,Human Resources,HR Analyst,L2,Halifax,3,66600.0,2
+E0212,Policy & Research,Senior Policy Analyst,L3,Halifax,5,91100.0,5
+E0213,Policy & Research,Policy Analyst,L2,Halifax,3,67300.0,3
+E0214,Operations,Operations Analyst,L2,Halifax,11,60000.0,3
+E0215,Finance,Financial Analyst,L2,Halifax,20,72900.0,3
+E0216,Finance,Finance Assistant,L1,Halifax,20,44600.0,3
+E0217,Policy & Research,Research Assistant,L1,Halifax,20,46200.0,3
+E0218,Information Technology,Systems Analyst,L2,Halifax,10,74300.0,3
+E0219,Policy & Research,Senior Policy Analyst,L3,Halifax,20,92900.0,4
+E0220,Human Resources,HR Advisor,L3,Halifax,7,76900.0,3
+E0221,Finance,Senior Financial Analyst,L3,Halifax,14,83200.0,5
+E0222,Finance,Senior Financial Analyst,L3,Halifax,19,73800.0,3
+E0223,Information Technology,Senior Systems Analyst,L3,Halifax,16,76500.0,3
+E0224,Finance,Financial Analyst,L2,Halifax,20,73400.0,3
+E0225,Administration,Administrative Assistant,L1,Halifax,10,41800.0,3
+E0226,Finance,Finance Assistant,L1,Halifax,11,49000.0,4
+E0227,Operations,Operations Analyst,L2,Halifax,1,71300.0,2
+E0228,Administration,Administrative Assistant,L1,Halifax,16,42700.0,5
+E0229,Administration,Office Manager,L3,Halifax,11,71100.0,3
+E0230,Policy & Research,Research Assistant,L1,Halifax,4,52600.0,4
+E0231,Operations,Operations Assistant,L1,Halifax,17,49600.0,3
+E0232,Finance,Finance Assistant,L1,Halifax,6,50500.0,1
+E0233,Policy & Research,Senior Policy Analyst,L3,Halifax,8,83700.0,3
+E0234,Policy & Research,Policy Analyst,L2,Halifax,19,61500.0,4
+E0235,Finance,Senior Financial Analyst,L3,Halifax,9,72400.0,3
+E0236,Information Technology,IT Support Analyst,L1,Halifax,1,63300.0,4
+E0237,Human Resources,HR Analyst,L2,Halifax,11,65800.0,3
+E0238,Operations,Operations Assistant,L1,Halifax,12,54400.0,3
+E0239,Policy & Research,Policy Analyst,L2,Halifax,11,73500.0,3
+E0240,Human Resources,HR Advisor,L3,Halifax,6,78300.0,1
+E0241,Policy & Research,Policy Analyst,L2,Halifax,16,85000.0,3
+E0242,Information Technology,Senior Systems Analyst,L3,Halifax,9,89500.0,2
+E0243,Information Technology,IT Support Analyst,L1,Halifax,0,53400.0,3
+E0244,Operations,Operations Analyst,L2,Halifax,3,59100.0,4
+E0245,Policy & Research,Research Assistant,L1,Halifax,15,49200.0,1
+E0246,Administration,Administrative Assistant,L1,Halifax,3,46700.0,3
+E0247,Finance,Finance Assistant,L1,Halifax,4,54500.0,2
+E0248,Operations,Operations Manager,L3,Halifax,12,78900.0,5
+E0249,Information Technology,Senior Systems Analyst,L3,Halifax,7,104500.0,5
+E0250,Policy & Research,Policy Analyst,L2,Halifax,9,80100.0,1
+E0251,Administration,Administrative Coordinator,L2,Halifax,8,51400.0,3
+E0252,Policy & Research,Policy Analyst,L2,Halifax,14,77000.0,3
+E0253,Administration,Office Manager,L3,Halifax,19,65700.0,5
+E0254,Finance,Financial Analyst,L2,Halifax,16,58300.0,3
+E0255,Human Resources,HR Analyst,L2,Halifax,12,80600.0,3
+E0256,Operations,Operations Assistant,L1,Halifax,1,52200.0,3
+E0257,Human Resources,HR Advisor,L3,Halifax,8,82100.0,1
+E0258,Human Resources,HR Advisor,L3,Halifax,1,76300.0,3
+E0259,Operations,Operations Manager,L3,Halifax,4,85400.0,1
+E0260,Policy & Research,Research Assistant,L1,Halifax,12,49600.0,4
+E0261,Policy & Research,Policy Analyst,L2,Halifax,18,77900.0,4
+E0262,Human Resources,HR Assistant,L1,Halifax,12,41800.0,4
+E0263,Human Resources,HR Assistant,L1,Halifax,15,50000.0,4
+E0264,Finance,Senior Financial Analyst,L3,Halifax,5,91100.0,3
+E0265,Policy & Research,Senior Policy Analyst,L3,Halifax,12,82200.0,4
+E0266,Operations,Operations Manager,L3,Halifax,17,73700.0,4
+E0267,Operations,Operations Assistant,L1,Halifax,11,51600.0,1
+E0268,Administration,Administrative Assistant,L1,Halifax,16,38500.0,2
+E0269,Finance,Finance Assistant,L1,Halifax,2,55600.0,2
+E0270,Information Technology,Senior Systems Analyst,L3,Halifax,4,90800.0,2
+E0271,Information Technology,Systems Analyst,L2,Halifax,3,71300.0,3
+E0272,Finance,Financial Analyst,L2,Halifax,0,67700.0,2
+E0273,Human Resources,HR Analyst,L2,Halifax,17,60600.0,5
+E0274,Human Resources,HR Advisor,L3,Halifax,19,93600.0,4
+E0275,Policy & Research,Senior Policy Analyst,L3,Halifax,0,99600.0,3
+E0276,Finance,Senior Financial Analyst,L3,Halifax,1,83000.0,3
+E0277,Policy & Research,Research Assistant,L1,Halifax,2,51700.0,3
+E0278,Policy & Research,Senior Policy Analyst,L3,Halifax,19,81000.0,4
+E0279,Operations,Operations Analyst,L2,Halifax,10,69000.0,3
+E0280,Policy & Research,Senior Policy Analyst,L3,Halifax,19,84600.0,3
+E0281,Administration,Administrative Assistant,L1,Halifax,2,51200.0,3
+E0282,Finance,Finance Assistant,L1,Halifax,2,44600.0,1
+E0283,Administration,Administrative Coordinator,L2,Halifax,14,48000.0,3
+E0284,Administration,Administrative Assistant,L1,Halifax,20,46300.0,3
+E0285,Human Resources,HR Analyst,L2,Halifax,17,58200.0,4
+E0286,Policy & Research,Policy Analyst,L2,Halifax,2,70700.0,3
+E0287,Administration,Administrative Coordinator,L2,Halifax,13,46800.0,3
+E0288,Administration,Administrative Coordinator,L2,Halifax,15,58600.0,3
+E0289,Operations,Operations Analyst,L2,Halifax,20,60300.0,3
+E0290,Policy & Research,Research Assistant,L1,Halifax,7,54600.0,3
+E0291,Operations,Operations Analyst,L2,Halifax,13,70700.0,5
+E0292,Administration,Administrative Assistant,L1,Halifax,5,51700.0,5
+E0293,Human Resources,HR Analyst,L2,Halifax,18,64600.0,2
+E0294,Operations,Operations Assistant,L1,Halifax,9,41700.0,4
+E0295,Finance,Finance Assistant,L1,Halifax,1,47000.0,3
+E0296,Finance,Financial Analyst,L2,Halifax,6,74000.0,3
+E0297,Finance,Financial Analyst,L2,Halifax,14,76300.0,3
+E0298,Operations,Operations Assistant,L1,Halifax,5,52100.0,3
+E0299,Administration,Administrative Coordinator,L2,Halifax,11,60300.0,4
+E0300,Operations,Operations Manager,L3,Halifax,6,86100.0,4
+E0301,Information Technology,Systems Analyst,L2,Halifax,2,72400.0,1
+E0302,Finance,Financial Analyst,L2,Halifax,11,58000.0,3
+E0303,Policy & Research,Research Assistant,L1,Halifax,12,47600.0,3
+E0304,Policy & Research,Research Assistant,L1,Halifax,20,38900.0,4
+E0305,Human Resources,HR Analyst,L2,Halifax,5,64900.0,4
+E0306,Finance,Senior Financial Analyst,L3,Halifax,2,84700.0,3
+E0307,Operations,Operations Manager,L3,Halifax,14,90000.0,3
+E0308,Finance,Finance Assistant,L1,Halifax,19,48800.0,3
+E0309,Information Technology,Systems Analyst,L2,Halifax,19,81500.0,3
+E0310,Administration,Administrative Coordinator,L2,Halifax,20,72200.0,3
+E0311,Information Technology,Systems Analyst,L2,Halifax,14,61400.0,5
+E0312,Human Resources,HR Analyst,L2,Halifax,11,60700.0,3
+E0313,Finance,Finance Assistant,L1,Halifax,14,46900.0,3
+E0314,Operations,Operations Manager,L3,Halifax,9,92600.0,3
+E0315,Operations,Operations Analyst,L2,Halifax,4,53400.0,4
+E0316,Information Technology,IT Support Analyst,L1,Halifax,14,54800.0,3
+E0317,Administration,Administrative Coordinator,L2,Halifax,6,57300.0,3
+E0318,Finance,Senior Financial Analyst,L3,Halifax,4,82800.0,1
+E0319,Administration,Administrative Assistant,L1,Halifax,14,44900.0,3
+E0320,Finance,Finance Assistant,L1,Halifax,9,54600.0,4
+E0321,Administration,Administrative Assistant,L1,Halifax,4,52800.0,3
+E0322,Operations,Operations Assistant,L1,Halifax,10,51800.0,4
+E0323,Policy & Research,Research Assistant,L1,Halifax,16,51300.0,4
+E0324,Operations,Operations Manager,L3,Halifax,19,91800.0,3
+E0325,Finance,Finance Assistant,L1,Halifax,4,53200.0,5
+E0326,Policy & Research,Research Assistant,L1,Halifax,16,49000.0,3
+E0327,Information Technology,Systems Analyst,L2,Halifax,19,75200.0,5
+E0328,Administration,Office Manager,L3,Halifax,14,71700.0,3
+E0329,Information Technology,Systems Analyst,L2,Halifax,19,74600.0,2
+E0330,Finance,Finance Assistant,L1,Halifax,0,50000.0,4
+E0331,Policy & Research,Policy Analyst,L2,Halifax,4,74200.0,5
+E0332,Finance,Senior Financial Analyst,L3,Halifax,9,72900.0,1
+E0333,Finance,Finance Assistant,L1,Halifax,7,47300.0,4
+E0334,Administration,Administrative Coordinator,L2,Halifax,3,56700.0,4
+E0335,Human Resources,HR Advisor,L3,Halifax,15,84800.0,4
+E0336,Operations,Operations Analyst,L2,Halifax,17,76900.0,3
+E0337,Administration,Administrative Assistant,L1,Halifax,8,44000.0,5
+E0338,Administration,Office Manager,L3,Halifax,3,69900.0,4
+E0339,Operations,Operations Analyst,L2,Halifax,3,68700.0,4
+E0340,Administration,Office Manager,L3,Halifax,18,73400.0,4
+E0341,Administration,Administrative Coordinator,L2,Halifax,6,48700.0,1
+E0342,Policy & Research,Senior Policy Analyst,L3,Halifax,0,72500.0,3
+E0343,Administration,Office Manager,L3,Halifax,11,59800.0,1
+E0344,Operations,Operations Analyst,L2,Halifax,1,66700.0,3
+E0345,Human Resources,HR Assistant,L1,Halifax,7,45200.0,3
+E0346,Finance,Finance Assistant,L1,Halifax,11,49300.0,2
+E0347,Policy & Research,Senior Policy Analyst,L3,Halifax,11,94700.0,3
+E0348,Operations,Operations Analyst,L2,Halifax,11,49700.0,5
+E0349,Policy & Research,Research Assistant,L1,Halifax,10,53300.0,1
+E0350,Administration,Office Manager,L3,Halifax,18,70400.0,2
+E0351,Policy & Research,Research Assistant,L1,Halifax,18,40600.0,2
+E0352,Information Technology,Systems Analyst,L2,Halifax,14,73300.0,3
+E0353,Finance,Financial Analyst,L2,Halifax,17,59100.0,3
+E0354,Information Technology,Systems Analyst,L2,Halifax,6,74600.0,3
+E0355,Administration,Administrative Coordinator,L2,Halifax,9,50300.0,5
+E0356,Operations,Operations Assistant,L1,Halifax,11,46700.0,1
+E0357,Finance,Senior Financial Analyst,L3,Halifax,12,84000.0,3
+E0358,Administration,Administrative Coordinator,L2,Halifax,8,55300.0,3
+E0359,Finance,Finance Assistant,L1,Halifax,9,42900.0,5
+E0360,Policy & Research,Policy Analyst,L2,Halifax,18,63400.0,4
+E0361,Finance,Finance Assistant,L1,Halifax,17,48100.0,4
+E0362,Policy & Research,Senior Policy Analyst,L3,Halifax,16,75400.0,4
+E0363,Finance,Finance Assistant,L1,Halifax,20,49600.0,2
+E0364,Information Technology,Senior Systems Analyst,L3,Halifax,10,91700.0,3
+E0365,Operations,Operations Assistant,L1,Halifax,1,55900.0,3
+E0366,Finance,Financial Analyst,L2,Halifax,6,73000.0,4
+E0367,Human Resources,HR Advisor,L3,Halifax,13,82600.0,2
+E0368,Policy & Research,Policy Analyst,L2,Halifax,3,80100.0,2
+E0369,Administration,Office Manager,L3,Halifax,8,63700.0,3
+E0370,Information Technology,IT Support Analyst,L1,Halifax,16,48000.0,4
+E0371,Information Technology,IT Support Analyst,L1,Halifax,11,61100.0,3
+E0372,Finance,Senior Financial Analyst,L3,Halifax,11,84600.0,3
+E0373,Human Resources,HR Analyst,L2,Halifax,5,54400.0,2
+E0374,Human Resources,HR Analyst,L2,Halifax,19,55600.0,2
+E0375,Information Technology,Systems Analyst,L2,Halifax,3,84300.0,5
+E0376,Finance,Financial Analyst,L2,Halifax,15,71400.0,1
+E0377,Information Technology,Senior Systems Analyst,L3,Halifax,15,85700.0,3
+E0378,Operations,Operations Assistant,L1,Halifax,19,51400.0,3
+E0379,Finance,Senior Financial Analyst,L3,Halifax,0,72700.0,3
+E0380,Policy & Research,Policy Analyst,L2,Halifax,3,68600.0,3
+E0381,Finance,Finance Assistant,L1,Halifax,1,43100.0,3
+E0382,Administration,Office Manager,L3,Halifax,2,63200.0,3
+E0383,Finance,Financial Analyst,L2,Halifax,5,68300.0,5
+E0384,Policy & Research,Policy Analyst,L2,Halifax,11,68400.0,5
+E0385,Finance,Financial Analyst,L2,Halifax,17,69100.0,3
+E0386,Operations,Operations Analyst,L2,Halifax,2,78200.0,4
+E0387,Information Technology,Systems Analyst,L2,Halifax,8,79700.0,3
+E0388,Finance,Finance Assistant,L1,Halifax,0,50000.0,5
+E0389,Operations,Operations Assistant,L1,Halifax,13,44900.0,4
+E0390,Human Resources,HR Assistant,L1,Halifax,5,52200.0,2
+E0391,Policy & Research,Policy Analyst,L2,Halifax,7,57000.0,3
+E0392,Policy & Research,Research Assistant,L1,Halifax,13,49600.0,4
+E0393,Policy & Research,Senior Policy Analyst,L3,Halifax,5,85900.0,1
+E0394,Human Resources,HR Advisor,L3,Halifax,18,76000.0,3
+E0395,Finance,Financial Analyst,L2,Halifax,1,71000.0,3
+E0396,Administration,Office Manager,L3,Halifax,18,78300.0,3
+E0397,Policy & Research,Research Assistant,L1,Halifax,13,47400.0,2
+E0398,Information Technology,Senior Systems Analyst,L3,Halifax,7,94800.0,4
+E0399,Information Technology,IT Support Analyst,L1,Halifax,19,57800.0,4
+E0400,Policy & Research,Senior Policy Analyst,L3,Halifax,2,92100.0,3
+E0401,Information Technology,Systems Analyst,L2,Halifax,13,77400.0,3
+E0402,Finance,Financial Analyst,L2,Halifax,20,65800.0,1
+E0403,Policy & Research,Policy Analyst,L2,Halifax,6,75100.0,3
+E0404,Policy & Research,Research Assistant,L1,Halifax,20,46800.0,4
+E0405,Policy & Research,Research Assistant,L1,Halifax,2,49300.0,3
+E0406,Policy & Research,Policy Analyst,L2,Halifax,3,84400.0,4
+E0407,Information Technology,Systems Analyst,L2,Halifax,7,82000.0,4
+E0408,Finance,Finance Assistant,L1,Halifax,9,51100.0,4
+E0409,Administration,Administrative Assistant,L1,Halifax,8,47200.0,5
+E0410,Information Technology,IT Support Analyst,L1,Halifax,10,54100.0,3
+E0411,Human Resources,HR Analyst,L2,Halifax,7,63800.0,3
+E0412,Policy & Research,Senior Policy Analyst,L3,Halifax,4,94300.0,4
+E0413,Administration,Office Manager,L3,Halifax,4,76300.0,1
+E0414,Human Resources,HR Assistant,L1,Halifax,4,50400.0,3
+E0415,Finance,Senior Financial Analyst,L3,Halifax,13,78200.0,5
+E0416,Finance,Finance Assistant,L1,Halifax,4,55600.0,4
+E0417,Finance,Financial Analyst,L2,Halifax,14,70700.0,2
+E0418,Finance,Senior Financial Analyst,L3,Halifax,17,95100.0,1
+E0419,Information Technology,Systems Analyst,L2,Halifax,3,77700.0,4
+E0420,Operations,Operations Manager,L3,Halifax,17,99200.0,3
+E0421,Information Technology,Senior Systems Analyst,L3,Halifax,7,101200.0,2
+E0422,Information Technology,Systems Analyst,L2,Halifax,10,73900.0,1
+E0423,Administration,Administrative Coordinator,L2,Halifax,8,45000.0,3
+E0424,Administration,Administrative Coordinator,L2,Halifax,19,43800.0,3
+E0425,Policy & Research,Senior Policy Analyst,L3,Halifax,13,92200.0,1
+E0426,Information Technology,IT Support Analyst,L1,Halifax,14,53000.0,3
+E0427,Policy & Research,Policy Analyst,L2,Halifax,20,71100.0,5
+E0428,Information Technology,Senior Systems Analyst,L3,Halifax,10,108800.0,3
+E0429,Information Technology,IT Support Analyst,L1,Halifax,12,57400.0,3
+E0430,Human Resources,HR Analyst,L2,Halifax,14,60200.0,3
+E0431,Information Technology,IT Support Analyst,L1,Halifax,10,58900.0,4
+E0432,Operations,Operations Manager,L3,Halifax,6,92900.0,3
+E0433,Administration,Administrative Assistant,L1,Halifax,14,52000.0,3
+E0434,Information Technology,IT Support Analyst,L1,Halifax,2,56500.0,5
+E0435,Human Resources,HR Analyst,L2,Halifax,1,76000.0,3
+E0436,Human Resources,HR Advisor,L3,Halifax,1,81100.0,3
+E0437,Policy & Research,Research Assistant,L1,Halifax,19,50600.0,3
+E0438,Information Technology,IT Support Analyst,L1,Halifax,13,56500.0,3
+E0439,Finance,Finance Assistant,L1,Halifax,19,47000.0,3
+E0440,Human Resources,HR Assistant,L1,Halifax,3,43400.0,3
+E0441,Information Technology,Systems Analyst,L2,Halifax,2,71000.0,2
+E0442,Policy & Research,Research Assistant,L1,Halifax,6,47300.0,3
+E0443,Operations,Operations Manager,L3,Halifax,4,96600.0,3
+E0444,Operations,Operations Analyst,L2,Halifax,17,77400.0,3
+E0445,Information Technology,Senior Systems Analyst,L3,Halifax,16,97600.0,3
+E0446,Information Technology,Systems Analyst,L2,Halifax,5,67700.0,3
+E0447,Information Technology,Senior Systems Analyst,L3,Halifax,15,96600.0,3
+E0448,Administration,Administrative Coordinator,L2,Halifax,19,51700.0,2
+E0449,Information Technology,Senior Systems Analyst,L3,Halifax,14,95000.0,5
+E0450,Administration,Administrative Coordinator,L2,Halifax,3,58400.0,3
+E0451,Human Resources,HR Advisor,L3,Halifax,5,84900.0,5
+E0452,Finance,Finance Assistant,L1,Halifax,19,54000.0,3
+E0453,Finance,Senior Financial Analyst,L3,Halifax,12,98400.0,4
+E0454,Operations,Operations Assistant,L1,Halifax,12,55900.0,4
+E0455,Human Resources,HR Analyst,L2,Halifax,2,68100.0,3
+E0456,Finance,Finance Assistant,L1,Halifax,3,46600.0,2
+E0457,Information Technology,Systems Analyst,L2,Halifax,6,74900.0,5
+E0458,Information Technology,Systems Analyst,L2,Halifax,8,75200.0,3
+E0459,Information Technology,IT Support Analyst,L1,Halifax,19,54500.0,4
+E0460,Information Technology,Senior Systems Analyst,L3,Halifax,2,91100.0,3
+E0461,Operations,Operations Analyst,L2,Halifax,15,72500.0,3
+E0462,Operations,Operations Assistant,L1,Halifax,12,46300.0,4
+E0463,Human Resources,HR Analyst,L2,Halifax,10,48100.0,2
+E0464,Operations,Operations Manager,L3,Halifax,14,88300.0,1
+E0465,Human Resources,HR Advisor,L3,Halifax,15,77000.0,5
+E0466,Operations,Operations Assistant,L1,Halifax,4,44500.0,5
+E0467,Finance,Finance Assistant,L1,Halifax,2,46500.0,4
+E0468,Human Resources,HR Assistant,L1,Halifax,20,42200.0,3
+E0469,Administration,Administrative Assistant,L1,Halifax,8,42700.0,1
+E0470,Administration,Office Manager,L3,Halifax,0,80100.0,3
+E0471,Policy & Research,Research Assistant,L1,Halifax,1,56900.0,3
+E0472,Administration,Administrative Assistant,L1,Halifax,1,46600.0,2
+E0473,Operations,Operations Analyst,L2,Halifax,0,67300.0,3
+E0474,Administration,Administrative Coordinator,L2,Halifax,9,50000.0,3
+E0475,Human Resources,HR Assistant,L1,Halifax,6,47600.0,3
+E0476,Information Technology,Senior Systems Analyst,L3,Halifax,9,86000.0,5
+E0477,Human Resources,HR Advisor,L3,Halifax,16,72100.0,3
+E0478,Information Technology,Systems Analyst,L2,Halifax,19,70100.0,3
+E0479,Policy & Research,Senior Policy Analyst,L3,Halifax,19,82900.0,4
+E0480,Finance,Financial Analyst,L2,Halifax,16,55600.0,1
+E0481,Administration,Administrative Coordinator,L2,Halifax,2,54100.0,5
+E0482,Operations,Operations Manager,L3,Halifax,19,107900.0,3
+E0483,Human Resources,HR Analyst,L2,Halifax,10,52200.0,4
+E0484,Information Technology,IT Support Analyst,L1,Halifax,3,56300.0,3
+E0485,Administration,Office Manager,L3,Halifax,14,59600.0,5
+E0486,Information Technology,Systems Analyst,L2,Halifax,11,75000.0,3
+E0487,Human Resources,HR Assistant,L1,Halifax,2,47600.0,4
+E0488,Information Technology,IT Support Analyst,L1,Halifax,7,47700.0,4
+E0489,Information Technology,Senior Systems Analyst,L3,Halifax,4,85900.0,3
+E0490,Administration,Office Manager,L3,Halifax,13,69900.0,3
+E0491,Administration,Office Manager,L3,Halifax,12,76700.0,5
+E0492,Information Technology,Systems Analyst,L2,Halifax,4,85300.0,3
+E0493,Administration,Administrative Assistant,L1,Halifax,19,46500.0,4
+E0494,Policy & Research,Research Assistant,L1,Halifax,8,47600.0,4
+E0495,Finance,Financial Analyst,L2,Halifax,18,57200.0,4
+E0496,Finance,Financial Analyst,L2,Halifax,2,74100.0,4
+E0497,Operations,Operations Analyst,L2,Halifax,15,60800.0,4
+E0498,Administration,Office Manager,L3,Halifax,14,65400.0,3
+E0499,Human Resources,HR Assistant,L1,Halifax,15,51500.0,3
+E0500,Operations,Operations Manager,L3,Halifax,2,86000.0,1
