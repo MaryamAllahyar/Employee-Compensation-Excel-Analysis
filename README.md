@@ -384,6 +384,5 @@ This project demonstrates practical experience with:
 - Translating analytical findings into business recommendations
 
 
-## Dashboard
-![Employee Compensation Dashboard](images/compensation_dashboard.png)
+
 
